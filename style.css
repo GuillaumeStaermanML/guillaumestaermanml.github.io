@@ -51,7 +51,7 @@ html {
 }
 .content {
     width: 50vw;
-    background-color: white;
+    background-color: red;
     color: #27292B;
     padding: 32px;
     height: 90vh;
