@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minimal Theme
 
 [Website](https://guillaumestaermanml.github.io/)
@@ -14,3 +15,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 
 
+=======
+# guillaumestaermanml.github.io
+Personal page for Guillaume Staerman
+>>>>>>> 002c822eaac74e3b96e5333e989f82cb41410486
