@@ -1,2 +1,2 @@
-# audeg.github.io
-Personal page for Aude Genevay
+# guillaumestaermanml.github.io
+Personal page for Guillaume Staerman
