@@ -3,7 +3,7 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: red;
+    background: white;
 }
 
 body {
@@ -46,9 +46,13 @@ body {
 	margin-left: 0.5em;
 }
 
+tt {
+    background: #ffffdd;
+}
+
 pre, tt {
-	background: #ffffdd;
-	font-family: "Times New Roman";
+	font-size: 90%;
+	font-family: monaco, monospace;
 }
 
 a, a > tt {
@@ -361,4 +365,3 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
-
